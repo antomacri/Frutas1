@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+<<<<<<< HEAD
+    "body-parse": "^0.1.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+=======
+    "ejs": "^3.1.9"
+>>>>>>> 1f314a05053827f1748b34993415b8b751bdd0af
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+<<<<<<< HEAD
+  "name": "frutas1",
+  "version": "1.0.0",
+  "main": "app.js",
+=======
+  "name": "frutas",
+  "version": "1.0.0",
+  "main": "documentacion.js",
+>>>>>>> 1f314a05053827f1748b34993415b8b751bdd0af
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
